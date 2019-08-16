@@ -1,0 +1,2 @@
+cd C:\Users\xyz\workspace\Module1\Inetbankingv1
+mvn clean install
